@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mgopikrishna0123
+- 👋 Hi, I’m @Gopikrishna
 - 👀 I’m interested in python fulstack / frontend  development
 - 🌱 I’m currently learning prompt engineering
 - 💞️ I’m looking to collaborate on the projects which enhance my skills
